@@ -1,3 +1,15 @@
+## NAME
+SANNY CYRUZ REGALADO
+
+## EDUCATION
+https://www.neu.edu.ph/
+
+## CERTIFICATION
+[SQL and Relational Databases 101]
+https://courses.cognitiveclass.ai/certificates/04fd6c11a466419a81b0be24f7afdc34
+
+## Skillsets
+Web Developer, Good Communication Skills
 <!--
 
 - 🌱 Name: Sanny Cyruz Regalado

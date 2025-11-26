@@ -3,7 +3,6 @@ SANNY CYRUZ REGALADO
 
 ## EDUCATION
 Bachelor of Science in Information Technology (BSIT)
-https://www.neu.edu.ph/
 
 ## CERTIFICATION
 [SQL and Relational Databases 101]

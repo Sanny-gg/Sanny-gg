@@ -2,7 +2,7 @@
 SANNY CYRUZ REGALADO
 
 ## EDUCATION
-[Bachelor of Science in Information Technology (BSIT)]
+Bachelor of Science in Information Technology (BSIT)
 https://www.neu.edu.ph/
 
 ## CERTIFICATION

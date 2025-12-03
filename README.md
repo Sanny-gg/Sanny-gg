@@ -1,5 +1,5 @@
 ## NAME
- > - Sanny Cyruz Regalado
+- Sanny Cyruz Regalado
 
 ## 📂 EDUCATION
 - Bachelor of Science in Information Technology (BSIT)

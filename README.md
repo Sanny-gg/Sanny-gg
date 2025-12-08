@@ -1,12 +1,12 @@
 ## NAME
 - Sanny Cyruz Regalado
 
-## 🎓 EDUCATION
+## 🎓 **EDUCATION**
 - Bachelor of Science in Information Technology (BSIT)
 
-## ⚙️ CERTIFICATIONS
+## ⚙️ **CERTIFICATIONS**
 ### SQL and Relational Databases 101
-> https://courses.cognitiveclass.ai/certificates/04fd6c11a466419a81b0be24f7afdc34
+> ***SQL and Relational Databases 101:*** [View Certificate.](https://courses.cognitiveclass.ai/certificates/04fd6c11a466419a81b0be24f7afdc34)
 
 ### OCI Foundations Associate (2025)
 >
@@ -17,7 +17,7 @@
 ###  OCI AI Foundations Associate (2025)
 >
 
-## 🌙 Skillsets
+## 🌙 **Skillsets**
 - Web Developer
 - Project Manager
 

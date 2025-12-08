@@ -2,7 +2,7 @@
 - _Sanny Cyruz Regalado_
 
 ## 🎓 **EDUCATION**
-- 🎓*Bachelor of Science in Information Technology | New Era University — Quezon City*
+- **Bachelor of Science in Information Technology | New Era University — Quezon City**
 
 ## ⚙️ **CERTIFICATIONS**
 ### SQL and Relational Databases 101

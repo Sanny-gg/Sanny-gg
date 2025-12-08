@@ -1,5 +1,5 @@
-## NAME
-- _Sanny Cyruz Regalado_
+## Hey! I'm Sanny Cyruz Regalado
+*Here is a bit of background of me!*
 
 ## 🎓 **EDUCATION**
 - **Bachelor of Science in Information Technology | New Era University — Quezon City**
